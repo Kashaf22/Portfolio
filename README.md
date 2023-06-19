@@ -1,11 +1,9 @@
-# Personal Website Resume for Computer Science 
+# Personal Website
 
 
-Edited by Sunwoo Kang
-Merged CEEVEE with KARDS from Styleshouts :) 
+Edited by Kashaf Mujeeb
 
-
-For any questions on starting a personal website for resume, please contact swkang73@stanford.edu / sunnybd97@gmail.com. 
+For any questions, please contact kashaf.mujeeb22@gamil.com
 
 SOURCES AND CREDITS:
 
@@ -27,3 +25,6 @@ Javascript Files:
  - Slick slider (http://kenwheeler.github.io/slick/)
  - Animate On Scroll (https://michalsnik.github.io/aos/)
  - PrismJS (https://prismjs.com/)
+
+Code Help Taken From 
+- Sunwoo Kang's Personal Portfolio
